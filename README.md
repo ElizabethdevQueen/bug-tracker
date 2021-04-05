@@ -1,2 +1,7 @@
 # Bug Tracker App
-- learning redux
+- State management with Redux
+
+* the actions include : 
+    - Add a Bug
+    - Remove a Bug
+    - Resolve the issue/bug
